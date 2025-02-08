@@ -1,3 +1,6 @@
+refactor: update license text to point to angular.dev
+- Update license text to point to angular.dev instead of angular.io
+
 feat(list): Add filtering functionality to the employee list
 
 - Implemented a new filter feature to allow users to filter employees by department.

@@ -11,6 +11,16 @@ docs: update README with installation instructions
 refactor(api): improve error handling in user endpoints
 chore: update dependencies to latest versions
 
+feat : Nueva funcionalidad (feature).
+fix : Corrección de errores.
+docs : Cambios en la documentación.
+style : Cambios que no afectan el significado del código (formateo, espacios, etc.).
+refactor : Cambio de código que ni arregla un bug ni añade una característica.
+test : Añadir o modificar pruebas.
+chore : Cambios menores en tareas de mantenimiento (actualización de dependencias, etc.).
+
+---------------------------------------------
+
 feat(search): Add autocomplete functionality
 
 - Implement ElasticSearch integration for real-time suggestions.

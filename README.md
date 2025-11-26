@@ -1,3 +1,5 @@
+git reset --soft HEAD~1
+
 refactor: update license text to point to angular.dev
 - Update license text to point to angular.dev instead of angular.io
 
